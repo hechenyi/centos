@@ -1,0 +1,5 @@
+git   1013366704@qq.com/fantasy999@hcy
+
+linux  root fantasy9
+
+jenkins   admin/fantasy9
